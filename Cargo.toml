@@ -10,7 +10,7 @@ repository = "https://github.com/clearlycloudy/dt/"
 readme = "README.md"
 
 [dependencies]
-ndarray = "0.13.1"
+ndarray = "0.15"
 num = "0.3"
 
 [dev-dependencies]
